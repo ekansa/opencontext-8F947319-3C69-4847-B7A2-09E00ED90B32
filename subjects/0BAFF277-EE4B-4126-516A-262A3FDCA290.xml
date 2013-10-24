@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="0BAFF277-EE4B-4126-516A-262A3FDCA290" ownedBy="8F947319-3C69-4847-B7A2-09E00ED90B32">
+  <arch:name>
+    <arch:string>Cat # A29406</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Objects</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_5_c01d889bc</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>E31D1A28-874F-43EC-55AC-39109718E610</arch:variableID>
+          <arch:valueID>78C44B8C-7823-4615-9054-66DCE7C120EF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/215A532E-5EA4-4BA0-FB11-487925634A64">215A532E-5EA4-4BA0-FB11-487925634A64</oc:propid>
+          <oc:var_label type="nominal">Field Number</oc:var_label>
+          <oc:show_val>2N 146C</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FFBC61F2-1477-4E55-483C-F4589250DC49</arch:variableID>
+          <arch:valueID>81944A7C-108C-4F32-C28D-5D5C87EC33DF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FDB92C15-7B73-4869-CB95-D6D314ABF039">FDB92C15-7B73-4869-CB95-D6D314ABF039</oc:propid>
+          <oc:var_label type="nominal">Material</oc:var_label>
+          <oc:show_val>hematite</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="FFBC61F2-1477-4E55-483C-F4589250DC49" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P45F.consists_of">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Consists of</oc:label>
+              <oc:targetLink localType="property" localID="FDB92C15-7B73-4869-CB95-D6D314ABF039" localURI="http://opencontext.org/properties/FDB92C15-7B73-4869-CB95-D6D314ABF039" href="http://collection.britishmuseum.org/id/thesauri/x10943">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>hematite</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BD981948-8809-42B1-05B1-52B27EDB2D6F</arch:variableID>
+          <arch:valueID>3E8A7426-2C46-4B30-8FBA-691081C839FC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D76AEFEB-DF7E-4886-0465-5E6A1569004B">D76AEFEB-DF7E-4886-0465-5E6A1569004B</oc:propid>
+          <oc:var_label type="nominal">Location</oc:var_label>
+          <oc:show_val>Chicago</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>72DD47A1-35E3-4D8D-6EA3-9FB47B5E156F</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">4.6</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/350BB75E-8A81-4DFF-5EC3-29B42D0938A4">350BB75E-8A81-4DFF-5EC3-29B42D0938A4</oc:propid>
+          <oc:var_label type="decimal">Weight (g)</oc:var_label>
+          <oc:show_val>4.6</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID href="http://www.freebase.com/view/en/centimeter" name="centimeter" abrv="cm">0B1607BC-CA0D-4B13-5C17-66AC039974DF</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/B3B69646-6F3C-41D2-B985-951B38B30004">B3B69646-6F3C-41D2-B985-951B38B30004</oc:propid>
+          <oc:var_label type="nominal">Height (cm)</oc:var_label>
+          <oc:show_val>0.85000002384186</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>11DCA5C2-EFAA-4D06-AC27-EFB107C4EBB5</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/centimeter" name="centimeter" abrv="cm">2.7</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/7977EF42-4F99-4ED4-2B0E-A4FA3E4443AA">7977EF42-4F99-4ED4-2B0E-A4FA3E4443AA</oc:propid>
+          <oc:var_label type="decimal">Length (cm)</oc:var_label>
+          <oc:show_val>2.7</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1FF14B78-2144-4DC5-3EDF-FA545E1C8C30</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/centimeter" name="centimeter" abrv="cm">0.9</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/AB1AE1A7-C4AA-4FC1-E0D8-5A1A6B08A561">AB1AE1A7-C4AA-4FC1-E0D8-5A1A6B08A561</oc:propid>
+          <oc:var_label type="decimal">Width (cm)</oc:var_label>
+          <oc:show_val>0.9</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F0D8EE95-A0C2-4339-E4C8-10A53AD19C6E</arch:variableID>
+          <arch:valueID>045680D4-0ACB-458E-9D58-A69C1443F33B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C1803CC2-EB0C-4659-22E4-CF05DADA443C">C1803CC2-EB0C-4659-22E4-CF05DADA443C</oc:propid>
+          <oc:var_label type="nominal">Weight Type</oc:var_label>
+          <oc:show_val>sphendonoid</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FD08425E-5744-4092-72DE-39035D485D56</arch:variableID>
+          <arch:valueID>678E8D36-F108-40F2-C86A-ABA02D019FB8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9FE7E997-9495-4C2F-E7ED-8DE34474D457">9FE7E997-9495-4C2F-E7ED-8DE34474D457</oc:propid>
+          <oc:var_label type="nominal">Detail</oc:var_label>
+          <oc:show_val>flat ends, flat base</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5E17341C-22C9-4947-1CD5-9AD61E46BD46</arch:variableID>
+          <arch:decimal>0.5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/1A1F79BC-70C1-496E-EAFC-A087F8D02157">1A1F79BC-70C1-496E-EAFC-A087F8D02157</oc:propid>
+          <oc:var_label type="decimal">Units (inferred)</oc:var_label>
+          <oc:show_val>0.5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8FAA9B60-5F3D-4D3C-9F36-74BCD39DE9A6</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Shekel" name="Shekel" abrv="">9.2</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/2AB36364-222A-480E-23A2-419FD4F70E48">2AB36364-222A-480E-23A2-419FD4F70E48</oc:propid>
+          <oc:var_label type="decimal">Unit Weight (inferred)</oc:var_label>
+          <oc:show_val>9.2</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>02B945CF-DAC2-4ED0-A0B2-334BBDA1209D</arch:variableID>
+          <arch:valueID>AC05E6A0-8D47-425B-BB6D-0F212681F73D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CDB49EB4-FB9C-4C7F-AE41-6C6AB235D284">CDB49EB4-FB9C-4C7F-AE41-6C6AB235D284</oc:propid>
+          <oc:var_label type="nominal">Level</oc:var_label>
+          <oc:show_val>X</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3A399DDC-8DA6-478F-8B36-05253ED630E0</arch:variableID>
+          <arch:valueID>7C8C1341-4632-425D-3DD3-452836B1FAE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F026815B-D212-4F66-B043-50EEE8C3F18C">F026815B-D212-4F66-B043-50EEE8C3F18C</oc:propid>
+          <oc:var_label type="nominal">Locus</oc:var_label>
+          <oc:show_val>178 3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EB16EE14-4B4F-490E-23B7-8ED2FBE1C9C2</arch:variableID>
+          <arch:valueID>2AA19B3D-EBE7-49B6-6B43-24DA46D3B465</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1587045D-5435-4481-4131-5758C60E8941">1587045D-5435-4481-4131-5758C60E8941</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Old Babylonian</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DF3EB37E-E1CC-4A39-EA28-D9C4AC76046F</arch:variableID>
+          <arch:valueID>3B81BE57-5B05-4159-FC36-FE56E8A182E7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/32B2A685-05E1-4971-1E91-94F5054E39BF">32B2A685-05E1-4971-1E91-94F5054E39BF</oc:propid>
+          <oc:var_label type="alphanumeric">Card data</oc:var_label>
+          <oc:show_val>3N-146c; weight, barrel, hematite - elongated, flat ends; exp. 1951; 27x8mm; TA X-3 fl. 178; 1 Bab.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BE82B05A-676A-472D-4CD3-FEF1CB28A965</arch:variableID>
+          <arch:valueID>C0F746EE-ED0C-4F88-9DB9-091677C2E45D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/740B7374-00BB-4C8C-8301-B6DD4438296F">740B7374-00BB-4C8C-8301-B6DD4438296F</oc:propid>
+          <oc:var_label type="alphanumeric">New Description</oc:var_label>
+          <oc:show_val>highly polished black hematite. Base flattened, ends flat, slight accretion near one end. Very slight rust color lines/patches. Some faceting noted on edges.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E37D3753-B2D3-44D4-B142-C7D6C0C8DEC4</arch:variableID>
+          <arch:valueID>BF7D03D1-EBF5-442C-6BCD-219273FED4AC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4B7934CD-8959-4873-2E3C-678CA2604D5B">4B7934CD-8959-4873-2E3C-678CA2604D5B</oc:propid>
+          <oc:var_label type="nominal">Publication</oc:var_label>
+          <oc:show_val>OIP 78 (1967) p.109; Hematite, barrel; l. 2.1, d. 0.9 cm.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40D2A687-6FF0-41D4-2002-FEF79C4496F3</arch:variableID>
+          <arch:valueID>E13D9C66-3D51-4250-EB49-EEEAD8ACBFFB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F413AFA5-3835-4C0C-5C33-6F35E2A7A672">F413AFA5-3835-4C0C-5C33-6F35E2A7A672</oc:propid>
+          <oc:var_label type="alphanumeric">Photo</oc:var_label>
+          <oc:show_val>A29406.JPG</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>877B167E-934A-4946-1D1D-041B85FDDA50</arch:variableID>
+          <arch:valueID>34EE6817-FBF3-46B1-EB11-C04224EE1EEE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/99257EF6-4E4B-40E7-C7AD-9D45F3F2E5BD">99257EF6-4E4B-40E7-C7AD-9D45F3F2E5BD</oc:propid>
+          <oc:var_label type="boolean">Not weight?</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4750E325-43C6-4E72-D34C-7CA21AF810A3</arch:variableID>
+          <arch:valueID>34EE6817-FBF3-46B1-EB11-C04224EE1EEE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0BDD8882-9AC4-4A4F-A719-3FE4B5A7E53C">0BDD8882-9AC4-4A4F-A719-3FE4B5A7E53C</oc:propid>
+          <oc:var_label type="boolean">Inscribed?</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4DF16B6E-E494-46BD-3B62-618B604CB024</arch:variableID>
+          <arch:valueID>34EE6817-FBF3-46B1-EB11-C04224EE1EEE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/977354F5-0DFD-4791-0E7E-E7E1FA51EAF3">977354F5-0DFD-4791-0E7E-E7E1FA51EAF3</oc:propid>
+          <oc:var_label type="boolean">Broken?</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C9502BCD-B0FB-4ABC-8709-85997F9650ED</arch:variableID>
+          <arch:valueID>1CF4284D-BB57-4AB8-0F2E-5005515808B8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C5971D16-B84E-4B29-86EB-E265BCEAE782">C5971D16-B84E-4B29-86EB-E265BCEAE782</oc:propid>
+          <oc:var_label type="nominal">Weighed by</oc:var_label>
+          <oc:show_val>Hafford</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>584B9EEA-5A8D-40F0-8457-42BED8AAD5A5</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/19228890-BA0C-4E99-922A-2852620EA0EA">19228890-BA0C-4E99-922A-2852620EA0EA</oc:propid>
+          <oc:var_label type="boolean">Precision?</oc:var_label>
+          <oc:show_val>true</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>177F1402-8036-44B8-A875-4990CDF663CD</arch:variableID>
+          <arch:valueID>B9EF6468-5D8D-48C9-0D54-5B4BA3173140</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7E4FDEF6-82FF-455A-89E4-92D0A0EABC95">7E4FDEF6-82FF-455A-89E4-92D0A0EABC95</oc:propid>
+          <oc:var_label type="nominal">British Museum object type</oc:var_label>
+          <oc:show_val>measuring weight</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="177F1402-8036-44B8-A875-4990CDF663CD" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Has type</oc:label>
+              <oc:targetLink localType="property" localID="7E4FDEF6-82FF-455A-89E4-92D0A0EABC95" localURI="http://opencontext.org/properties/7E4FDEF6-82FF-455A-89E4-92D0A0EABC95" href="http://collection.britishmuseum.org/description/thesauri/x10018">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>measuring-weight</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">9E1EFC8C-7BAD-40E9-3431-D3C2DC6A4B4D</arch:docID>
+        <arch:docID type="person" info="Principle Analyst">DEF7332D-967E-43A9-151B-036093EB526A</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/9E1EFC8C-7BAD-40E9-3431-D3C2DC6A4B4D">
+            <oc:name>A29406</oc:name>
+            <oc:id>9E1EFC8C-7BAD-40E9-3431-D3C2DC6A4B4D</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type/>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/nippur-weights/thumbs/A29406.JPG</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/DEF7332D-967E-43A9-151B-036093EB526A" cite="contributor">
+            <oc:name>William B. Hafford</oc:name>
+            <oc:id>DEF7332D-967E-43A9-151B-036093EB526A</oc:id>
+            <oc:relation>Principle Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/GHF1SPA0000077840">
+        <oc:name>Iraq</oc:name>
+        <oc:id>GHF1SPA0000077840</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9E06A540-C3E1-44EA-A5E1-3E35473A7696">
+        <oc:name>Nippur</oc:name>
+        <oc:id>9E06A540-C3E1-44EA-A5E1-3E35473A7696</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/20B3B012-E61A-49D3-075F-B757E71B0658">
+        <oc:name>Area TA</oc:name>
+        <oc:id>20B3B012-E61A-49D3-075F-B757E71B0658</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Balance Pan Weights from Nippur: Cat # A29406 (Objects)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-10-08</dc:date>
+    <dc:subject>economic tools</dc:subject>
+    <dc:subject>manufacturing tools</dc:subject>
+    <dc:subject>valuation, weighing</dc:subject>
+    <dc:subject>mensuration</dc:subject>
+    <dc:subject>Mesopotamia</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/DEF7332D-967E-43A9-151B-036093EB526A">William B. Hafford</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/DEF7332D-967E-43A9-151B-036093EB526A">William B. Hafford</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/0BAFF277-EE4B-4126-516A-262A3FDCA290</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/8F947319-3C69-4847-B7A2-09E00ED90B32">Balance Pan Weights from Nippur</oc:project_name>
+    <oc:pub_date>2013-10-08T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Balance+Pan+Weights+from+Nippur%3A+Cat+%23+A29406+%28Objects%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=economic+tools&amp;rft.subject=manufacturing+tools&amp;rft.subject=valuation%2C+weighing&amp;rft.subject=mensuration&amp;rft.subject=Mesopotamia&amp;rft.subject=archaeology&amp;rft.contributor=William+B.+Hafford&amp;rft.creator=William+B.+Hafford&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F0BAFF277-EE4B-4126-516A-262A3FDCA290</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>32.126944</oc:geo_lat>
+      <oc:geo_long>45.230833</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/9E06A540-C3E1-44EA-A5E1-3E35473A7696">
+        <oc:source_name>Nippur</oc:source_name>
+        <oc:source_id>9E06A540-C3E1-44EA-A5E1-3E35473A7696</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>CC-Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-10-24T17:12:49-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/10/24 17:12:49</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(2,000 BCE - 1,600 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-2000</oc:time_start>
+          <oc:time_finish>-1600</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/0BAFF277-EE4B-4126-516A-262A3FDCA290">
+            <oc:source_name>Cat # A29406</oc:source_name>
+            <oc:source_id>0BAFF277-EE4B-4126-516A-262A3FDCA290</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-10-03T11:02:23-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

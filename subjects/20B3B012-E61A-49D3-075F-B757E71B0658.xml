@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="20B3B012-E61A-49D3-075F-B757E71B0658" ownedBy="8F947319-3C69-4847-B7A2-09E00ED90B32">
+  <arch:name>
+    <arch:string>Area TA</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Area</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>manual</oc:source>
+      </oc:obs_metadata>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div>
+<p>Areas designate general excavation units, either from modern excavations or from older digs.</p>
+
+<h6>Newer Excavation Areas</h6>
+<ul>
+<li>Area TA and TB (both within early designation Hill V)</li>
+<li>SB and IT (Inanna  Temple operations)</li>
+<li>EN (so-called 'Enlil Temple')</li>
+<li>FI (Parthian  Fortress)</li>
+</ul>
+
+<h6>Older Excavation Areas</h6>
+<p>The following designations not areas of excavation, if known, from older  excavations:</p>
+
+<ul>
+<li>Hill X (across from -- SW of -- Hill V)</li>
+<li>Shatt en-Nil  (area of ancient river bed between Hill V and Hill X)</li>
+<li>Temple Area  (area north of Hill V containing Inanna Temple).</li>
+
+</ul>
+
+</div>
+            </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/GHF1SPA0000077840">
+        <oc:name>Iraq</oc:name>
+        <oc:id>GHF1SPA0000077840</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9E06A540-C3E1-44EA-A5E1-3E35473A7696">
+        <oc:name>Nippur</oc:name>
+        <oc:id>9E06A540-C3E1-44EA-A5E1-3E35473A7696</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/2DF8DB06-4A18-4A6C-7E0E-2CE8A06682F3">
+        <oc:name>Cat # 51-6-224</oc:name>
+        <oc:id>2DF8DB06-4A18-4A6C-7E0E-2CE8A06682F3</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7CF442D9-7D22-4870-0E55-55EA57797E65">
+        <oc:name>Cat # 51-6-231</oc:name>
+        <oc:id>7CF442D9-7D22-4870-0E55-55EA57797E65</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D205AE58-CA81-4938-2AAA-CCFA8DF8BA9E">
+        <oc:name>Cat # 51-6-239</oc:name>
+        <oc:id>D205AE58-CA81-4938-2AAA-CCFA8DF8BA9E</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8E12CC59-E425-4CB3-0987-68C5041E230F">
+        <oc:name>Cat # 53-11-15</oc:name>
+        <oc:id>8E12CC59-E425-4CB3-0987-68C5041E230F</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4187EF45-1259-4AF5-29D0-183A7707FF8D">
+        <oc:name>Cat # 53-11-16</oc:name>
+        <oc:id>4187EF45-1259-4AF5-29D0-183A7707FF8D</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D248DAB6-E7ED-460F-1D57-AA303627D220">
+        <oc:name>Cat # 53-11-18</oc:name>
+        <oc:id>D248DAB6-E7ED-460F-1D57-AA303627D220</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4E99A161-B74D-4A3F-F001-54C4E4C5E7F1">
+        <oc:name>Cat # 53-11-19</oc:name>
+        <oc:id>4E99A161-B74D-4A3F-F001-54C4E4C5E7F1</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3B96437D-7815-4B14-D4BE-D3C6AB3F1BEF">
+        <oc:name>Cat # 53-11-21</oc:name>
+        <oc:id>3B96437D-7815-4B14-D4BE-D3C6AB3F1BEF</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D6CDB081-3D3E-4B3C-6759-2FD82053527C">
+        <oc:name>Cat # 53-11-22</oc:name>
+        <oc:id>D6CDB081-3D3E-4B3C-6759-2FD82053527C</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/50D9F80D-DAD0-492A-FCB3-59E6AAC1C2CA">
+        <oc:name>Cat # 53-11-24</oc:name>
+        <oc:id>50D9F80D-DAD0-492A-FCB3-59E6AAC1C2CA</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/72F395CA-6E8E-4C2D-731D-8757196B14A1">
+        <oc:name>Cat # 53-11-25</oc:name>
+        <oc:id>72F395CA-6E8E-4C2D-731D-8757196B14A1</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BFA9D025-CD31-4843-8668-A99F0398FBEE">
+        <oc:name>Cat # A28808</oc:name>
+        <oc:id>BFA9D025-CD31-4843-8668-A99F0398FBEE</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2E9E0586-08C0-4EAA-004B-D0323A29B078">
+        <oc:name>Cat # A28938</oc:name>
+        <oc:id>2E9E0586-08C0-4EAA-004B-D0323A29B078</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E0945E36-640E-4DB9-9656-1817735584C7">
+        <oc:name>Cat # A29404</oc:name>
+        <oc:id>E0945E36-640E-4DB9-9656-1817735584C7</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B2E83200-B67B-4E61-29DB-D9E02679DEEC">
+        <oc:name>Cat # A29405</oc:name>
+        <oc:id>B2E83200-B67B-4E61-29DB-D9E02679DEEC</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0BAFF277-EE4B-4126-516A-262A3FDCA290">
+        <oc:name>Cat # A29406</oc:name>
+        <oc:id>0BAFF277-EE4B-4126-516A-262A3FDCA290</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F000B06C-6011-41D2-22CB-7E5625C820D3">
+        <oc:name>Cat # A29407</oc:name>
+        <oc:id>F000B06C-6011-41D2-22CB-7E5625C820D3</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F64769C5-F02B-4B7D-8BBA-5E12A6B1875B">
+        <oc:name>Cat # A29408</oc:name>
+        <oc:id>F64769C5-F02B-4B7D-8BBA-5E12A6B1875B</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0AC699DC-DDAB-4C43-724C-9F2F1649EFD9">
+        <oc:name>Cat # A29432</oc:name>
+        <oc:id>0AC699DC-DDAB-4C43-724C-9F2F1649EFD9</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/45C2AF9E-B8D8-48ED-6737-5E78FCD133B1">
+        <oc:name>Cat # A29467</oc:name>
+        <oc:id>45C2AF9E-B8D8-48ED-6737-5E78FCD133B1</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/090D74C0-D96B-4E85-4821-9609C7D62478">
+        <oc:name>Cat # A29477</oc:name>
+        <oc:id>090D74C0-D96B-4E85-4821-9609C7D62478</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E3E67633-1C6A-4AEA-E282-DE294604AE74">
+        <oc:name>Cat # A29759</oc:name>
+        <oc:id>E3E67633-1C6A-4AEA-E282-DE294604AE74</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/530F1271-C671-4F44-EA80-1B7D16FEFF2E">
+        <oc:name>Cat # IM study (3N 157)</oc:name>
+        <oc:id>530F1271-C671-4F44-EA80-1B7D16FEFF2E</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B03CBD3A-01F6-4E51-7A7B-D6445F3BAAAB">
+        <oc:name>Cat # IM study (3N 175)</oc:name>
+        <oc:id>B03CBD3A-01F6-4E51-7A7B-D6445F3BAAAB</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/39586765-7AD4-4A9B-0D3F-CE809123958F">
+        <oc:name>Cat # IM study (3N 299)</oc:name>
+        <oc:id>39586765-7AD4-4A9B-0D3F-CE809123958F</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F0649320-6824-440E-E2D2-A03472E4566B">
+        <oc:name>Cat # IM study (3N 400)</oc:name>
+        <oc:id>F0649320-6824-440E-E2D2-A03472E4566B</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Balance Pan Weights from Nippur: Area TA (Area)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-10-08</dc:date>
+    <dc:subject>economic tools</dc:subject>
+    <dc:subject>manufacturing tools</dc:subject>
+    <dc:subject>valuation, weighing</dc:subject>
+    <dc:subject>mensuration</dc:subject>
+    <dc:subject>Mesopotamia</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/DEF7332D-967E-43A9-151B-036093EB526A">William B. Hafford</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/20B3B012-E61A-49D3-075F-B757E71B0658</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/8F947319-3C69-4847-B7A2-09E00ED90B32">Balance Pan Weights from Nippur</oc:project_name>
+    <oc:pub_date>2013-10-08T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Balance+Pan+Weights+from+Nippur%3A+Area+TA+%28Area%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=economic+tools&amp;rft.subject=manufacturing+tools&amp;rft.subject=valuation%2C+weighing&amp;rft.subject=mensuration&amp;rft.subject=Mesopotamia&amp;rft.subject=archaeology&amp;rft.creator=William+B.+Hafford&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F20B3B012-E61A-49D3-075F-B757E71B0658</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>32.126944</oc:geo_lat>
+      <oc:geo_long>45.230833</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/9E06A540-C3E1-44EA-A5E1-3E35473A7696">
+        <oc:source_name>Nippur</oc:source_name>
+        <oc:source_id>9E06A540-C3E1-44EA-A5E1-3E35473A7696</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>CC-Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-10-24T17:11:35-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/10/24 17:11:35</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(2,500 BCE - 750 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-2500</oc:time_start>
+          <oc:time_finish>750</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/9E06A540-C3E1-44EA-A5E1-3E35473A7696">
+            <oc:source_name>Nippur</oc:source_name>
+            <oc:source_id>9E06A540-C3E1-44EA-A5E1-3E35473A7696</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-10-02T16:29:02-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

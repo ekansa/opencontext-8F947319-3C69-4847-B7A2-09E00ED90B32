@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="8F947319-3C69-4847-B7A2-09E00ED90B32" ownedBy="8F947319-3C69-4847-B7A2-09E00ED90B32">
+  <arch:name>
+    <arch:string>Balance Pan Weights from Nippur</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Balance+Pan+Weights+from+Nippur</oc:queryVal>
+    <oc:rootPath>/Iraq</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint> </oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:links>
+    <arch:docID type="person" info="Project Participant">DEF7332D-967E-43A9-151B-036093EB526A</arch:docID>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/DEF7332D-967E-43A9-151B-036093EB526A">
+        <oc:name>William B. Hafford</oc:name>
+        <oc:id>DEF7332D-967E-43A9-151B-036093EB526A</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Physical measurements and photographs of weights (and possible weights) from a single site, multiple excavations from 1889-1972. </div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml"> <div>
+        
+        <h4>Introduction</h4>
+        <p>This dataset formed the basis of research into weights and weighing at the site of Nippur and is part of ongoing research into weights of the ancient Near East in general. Balance pan weights are used in both manufacture (for example, measuring amounts for mixing metals to create alloys) and trade (evaluation of goods by weight to establish equivalence in an exchange) and can thus be seen as a correlate of economic activity. Ancient examples can provide insight into the nature and extent of ancient economies. Nippur was a religious center through much of the Bronze Age and religious institutions are known to have played a role in Bronze Age economics. This role may have been in opposition to or in cooperation with that of private and state enterprise. Common weight forms at Nippur are those that are typical across the ancient Near East, but a single system of weight measurement is strongly indicated in statistical analysis of the known weights from the site. This is in contradiction to most analyzed sites further north, where many systems are simultaneously in play. It seems to indicate Nippur’s relative isolation within a socio-economic system, reflecting a general lack of incoming merchants or craftsmen from distant regions.</p>
+        
+        <h4>Methodology</h4>
+        
+        <p>Objects in this dataset were observed and measured in the University of Pennsylvania Museum and in the Oriental Institute of the University of Chicago in 2003. Weighing accuracy was determined by equipment limits, Ohaus and Acculab scales to one hundredth of a gram below 10 grams, one tenth of a gram between 10 and 600 grams, and to one gram over this number. Analysis has been conducted with simple fitting sequences and with advanced statistical techniques (particularly the Kendall statistic for determining quantal structure). Some data from the Iraq museum have now been added to this set. These objects were studied by Thelma Akrawi in the 1970s at the Iraq Museum but her data were never published. She has graciously given permission for their inclusion.</p>
+        
+        <h4>Potential Applications of Data</h4>
+        
+        <p>The most important further application of this dataset is likely in comparing it with other weights data, combining with material from other sites to arrive at a larger understanding of use-patterns--economic connections potentially indicated by combining, adapting, or adopting standards of mensuration. </p>
+        
+        <h4>Related Publications</h4>
+        <p>Most of the Nippur weights in this dataset were published in:</p>
+        <div resource="http://opencontext.org/subjects/ ">
+            
+            <div id="pub-2005-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2005-1"/>
+                <div typeof="dcterms:BibliographicResource bibo:Article" resource="#pub-s-2005-1">
+                    <div property="dcterms:bibliographicCitation">   
+                        <p class="authors">Hafford, William B. </p>
+                        <div>
+                            <div class="pub-date">2005</div>
+                            <div class="ref-title-pub">Mesopotamian Mensuration: Balance Pan Weights from Nippur. <span class="collection-title">Journal of the Economic and Social History of the Orient</span> 48(3):345-387.</div>
+                            <div class="ref-end"/>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="rdfs:isDefinedBy" href="http://www.jstor.org/stable/25165105">JSTOR</a>]
+                        [<a rel="dcterms:isPartOf" href="http://www.jstor.org/stable/i25165103">Issue</a>]
+                    </div>
+                </div>
+            </div>
+            
+        </div>    
+        
+    </div></div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Balance Pan Weights from Nippur: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-10-08</dc:date>
+    <dc:subject>economic tools</dc:subject>
+    <dc:subject>manufacturing tools</dc:subject>
+    <dc:subject>valuation, weighing</dc:subject>
+    <dc:subject>mensuration</dc:subject>
+    <dc:subject>Mesopotamia</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/DEF7332D-967E-43A9-151B-036093EB526A">William B. Hafford</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/8F947319-3C69-4847-B7A2-09E00ED90B32</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/8F947319-3C69-4847-B7A2-09E00ED90B32">Balance Pan Weights from Nippur</oc:project_name>
+    <oc:pub_date>2013-10-08T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Balance+Pan+Weights+from+Nippur%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=economic+tools&amp;rft.subject=manufacturing+tools&amp;rft.subject=valuation%2C+weighing&amp;rft.subject=mensuration&amp;rft.subject=Mesopotamia&amp;rft.subject=archaeology&amp;rft.creator=William+B.+Hafford&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F8F947319-3C69-4847-B7A2-09E00ED90B32</oc:coins>
+  </oc:metadata>
+</arch:project>
