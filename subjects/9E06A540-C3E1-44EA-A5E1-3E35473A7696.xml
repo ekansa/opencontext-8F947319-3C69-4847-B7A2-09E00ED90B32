@@ -31,6 +31,34 @@
           </oc:linkedData>
         </arch:property>
       </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">310EAFCD-6AE2-49AF-7A05-90A641D4595F</arch:docID>
+        <arch:docID type="resource" info="link">A77C012A-F03B-43F6-32B1-B975DBD94312</arch:docID>
+        <arch:docID type="resource" info="link">EB336FBD-53F1-42F7-6CCB-50772F590F3A</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/310EAFCD-6AE2-49AF-7A05-90A641D4595F">
+            <oc:name>Fischer 1905 Plan of Nippur</oc:name>
+            <oc:id>310EAFCD-6AE2-49AF-7A05-90A641D4595F</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/nippur-weights/thumbs/Fisher1905_10.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/A77C012A-F03B-43F6-32B1-B975DBD94312">
+            <oc:name>Hilprecht 1904 Plan of Nippur</oc:name>
+            <oc:id>A77C012A-F03B-43F6-32B1-B975DBD94312</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/nippur-weights/thumbs/Hilprecht1904_305.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/EB336FBD-53F1-42F7-6CCB-50772F590F3A">
+            <oc:name>Nippur Excavation Units</oc:name>
+            <oc:id>EB336FBD-53F1-42F7-6CCB-50772F590F3A</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/nippur-weights/thumbs/Nippur_excavation_units.jpg</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+      </arch:links>
     </arch:observation>
   </arch:observations>
   <oc:context>
@@ -165,7 +193,7 @@
   <oc:metadata>
     <dc:title>Balance Pan Weights from Nippur: Nippur (Site)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2013-10-08</dc:date>
+    <dc:date>2013-10-24</dc:date>
     <dc:subject>economic tools</dc:subject>
     <dc:subject>manufacturing tools</dc:subject>
     <dc:subject>valuation, weighing</dc:subject>
@@ -175,7 +203,7 @@
     <dc:creator href="http://opencontext.org/persons/DEF7332D-967E-43A9-151B-036093EB526A">William B. Hafford</dc:creator>
     <dc:identifier>http://opencontext.org/subjects/9E06A540-C3E1-44EA-A5E1-3E35473A7696</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/8F947319-3C69-4847-B7A2-09E00ED90B32">Balance Pan Weights from Nippur</oc:project_name>
-    <oc:pub_date>2013-10-08T00:00:00-07:00</oc:pub_date>
+    <oc:pub_date>2013-10-24T00:00:00-07:00</oc:pub_date>
     <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Balance+Pan+Weights+from+Nippur%3A+Nippur+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=economic+tools&amp;rft.subject=manufacturing+tools&amp;rft.subject=valuation%2C+weighing&amp;rft.subject=mensuration&amp;rft.subject=Mesopotamia&amp;rft.subject=archaeology&amp;rft.creator=William+B.+Hafford&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F9E06A540-C3E1-44EA-A5E1-3E35473A7696</oc:coins>
     <oc:geo_reference>
       <oc:geo_lat>32.126944</oc:geo_lat>
@@ -187,10 +215,10 @@
     </oc:geo_reference>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2013-10-24T17:11:25-07:00</oc:last_updated>
+    <oc:last_updated>2013-10-29T17:22:42-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2013/10/24 17:11:25</oc:view_time>
+      <oc:view_time>2013/10/29 17:22:42</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">

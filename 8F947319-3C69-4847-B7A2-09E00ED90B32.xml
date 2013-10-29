@@ -44,11 +44,11 @@
         
         <h4>Related Publications</h4>
         <p>Most of the Nippur weights in this dataset were published in:</p>
-        <div resource="http://opencontext.org/subjects/ ">
+        <div resource="http://opencontext.org/projects/8F947319-3C69-4847-B7A2-09E00ED90B32">
             
-            <div id="pub-2005-1" rel="dcterms:isReferencedBy" class="biblio-item">
+            <div id="pub-2005-1" rel="dcterms:references" class="biblio-item">
                 <a style="display:none;" href="#pub-2005-1"/>
-                <div typeof="dcterms:BibliographicResource bibo:Article" resource="#pub-s-2005-1">
+                <div typeof="dcterms:BibliographicResource bibo:Article" resource="#pub-2005-1">
                     <div property="dcterms:bibliographicCitation">   
                         <p class="authors">Hafford, William B. </p>
                         <div>
@@ -73,7 +73,7 @@
   <oc:metadata>
     <dc:title>Balance Pan Weights from Nippur: (Overview)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2013-10-08</dc:date>
+    <dc:date>2013-10-24</dc:date>
     <dc:subject>economic tools</dc:subject>
     <dc:subject>manufacturing tools</dc:subject>
     <dc:subject>valuation, weighing</dc:subject>
@@ -82,8 +82,9 @@
     <dc:subject>archaeology</dc:subject>
     <dc:creator href="http://opencontext.org/persons/DEF7332D-967E-43A9-151B-036093EB526A">William B. Hafford</dc:creator>
     <dc:identifier>http://opencontext.org/projects/8F947319-3C69-4847-B7A2-09E00ED90B32</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7FT8HZG">10.6078/M7FT8HZG</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/8F947319-3C69-4847-B7A2-09E00ED90B32">Balance Pan Weights from Nippur</oc:project_name>
-    <oc:pub_date>2013-10-08T00:00:00-07:00</oc:pub_date>
-    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Balance+Pan+Weights+from+Nippur%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=economic+tools&amp;rft.subject=manufacturing+tools&amp;rft.subject=valuation%2C+weighing&amp;rft.subject=mensuration&amp;rft.subject=Mesopotamia&amp;rft.subject=archaeology&amp;rft.creator=William+B.+Hafford&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F8F947319-3C69-4847-B7A2-09E00ED90B32</oc:coins>
+    <oc:pub_date>2013-10-24T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Balance+Pan+Weights+from+Nippur%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=economic+tools&amp;rft.subject=manufacturing+tools&amp;rft.subject=valuation%2C+weighing&amp;rft.subject=mensuration&amp;rft.subject=Mesopotamia&amp;rft.subject=archaeology&amp;rft.creator=William+B.+Hafford&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F8F947319-3C69-4847-B7A2-09E00ED90B32&amp;rft.identifier=DOI%3A10.6078%2FM7FT8HZG</oc:coins>
   </oc:metadata>
 </arch:project>

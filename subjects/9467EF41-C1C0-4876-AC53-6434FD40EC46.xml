@@ -140,23 +140,6 @@
           <oc:var_label type="boolean">Precision?</oc:var_label>
           <oc:show_val>false</oc:show_val>
         </arch:property>
-        <arch:property>
-          <arch:variableID>177F1402-8036-44B8-A875-4990CDF663CD</arch:variableID>
-          <arch:valueID>B9EF6468-5D8D-48C9-0D54-5B4BA3173140</arch:valueID>
-          <oc:propid href="http://opencontext.org/properties/7E4FDEF6-82FF-455A-89E4-92D0A0EABC95">7E4FDEF6-82FF-455A-89E4-92D0A0EABC95</oc:propid>
-          <oc:var_label type="nominal">British Museum object type</oc:var_label>
-          <oc:show_val>measuring weight</oc:show_val>
-          <oc:linkedData>
-            <oc:relationLink localType="variable" localID="177F1402-8036-44B8-A875-4990CDF663CD" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
-              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
-              <oc:label>Has type</oc:label>
-              <oc:targetLink localType="property" localID="7E4FDEF6-82FF-455A-89E4-92D0A0EABC95" localURI="http://opencontext.org/properties/7E4FDEF6-82FF-455A-89E4-92D0A0EABC95" href="http://collection.britishmuseum.org/description/thesauri/x10018">
-                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
-                <oc:label>measuring-weight</oc:label>
-              </oc:targetLink>
-            </oc:relationLink>
-          </oc:linkedData>
-        </arch:property>
       </arch:properties>
       <arch:links>
         <arch:docID type="resource" info="link">A303CBB3-EFC1-40E1-AA49-A1BE4669C4E6</arch:docID>
@@ -166,7 +149,7 @@
             <oc:name>B2573</oc:name>
             <oc:id>A303CBB3-EFC1-40E1-AA49-A1BE4669C4E6</oc:id>
             <oc:relation>link</oc:relation>
-            <oc:type/>
+            <oc:type>image</oc:type>
             <oc:thumbnailURI>http://artiraq.org/static/opencontext/nippur-weights/thumbs/B2573.JPG</oc:thumbnailURI>
           </oc:link>
         </oc:media_links>
@@ -214,7 +197,7 @@
   <oc:metadata>
     <dc:title>Balance Pan Weights from Nippur: Cat # B2573 (Objects)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2013-10-08</dc:date>
+    <dc:date>2013-10-24</dc:date>
     <dc:subject>economic tools</dc:subject>
     <dc:subject>manufacturing tools</dc:subject>
     <dc:subject>valuation, weighing</dc:subject>
@@ -225,7 +208,7 @@
     <dc:creator href="http://opencontext.org/persons/DEF7332D-967E-43A9-151B-036093EB526A">William B. Hafford</dc:creator>
     <dc:identifier>http://opencontext.org/subjects/9467EF41-C1C0-4876-AC53-6434FD40EC46</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/8F947319-3C69-4847-B7A2-09E00ED90B32">Balance Pan Weights from Nippur</oc:project_name>
-    <oc:pub_date>2013-10-08T00:00:00-07:00</oc:pub_date>
+    <oc:pub_date>2013-10-24T00:00:00-07:00</oc:pub_date>
     <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Balance+Pan+Weights+from+Nippur%3A+Cat+%23+B2573+%28Objects%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=economic+tools&amp;rft.subject=manufacturing+tools&amp;rft.subject=valuation%2C+weighing&amp;rft.subject=mensuration&amp;rft.subject=Mesopotamia&amp;rft.subject=archaeology&amp;rft.contributor=William+B.+Hafford&amp;rft.creator=William+B.+Hafford&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F9467EF41-C1C0-4876-AC53-6434FD40EC46</oc:coins>
     <oc:geo_reference>
       <oc:geo_lat>32.126944</oc:geo_lat>
@@ -243,10 +226,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2013-10-24T17:18:16-07:00</oc:last_updated>
+    <oc:last_updated>2013-10-29T16:32:04-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2013/10/24 17:18:16</oc:view_time>
+      <oc:view_time>2013/10/29 16:32:04</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">

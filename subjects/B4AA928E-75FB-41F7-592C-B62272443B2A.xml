@@ -155,7 +155,7 @@
             <oc:relationLink localType="variable" localID="177F1402-8036-44B8-A875-4990CDF663CD" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
               <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
               <oc:label>Has type</oc:label>
-              <oc:targetLink localType="property" localID="7E4FDEF6-82FF-455A-89E4-92D0A0EABC95" localURI="http://opencontext.org/properties/7E4FDEF6-82FF-455A-89E4-92D0A0EABC95" href="http://collection.britishmuseum.org/description/thesauri/x10018">
+              <oc:targetLink localType="property" localID="7E4FDEF6-82FF-455A-89E4-92D0A0EABC95" localURI="http://opencontext.org/properties/7E4FDEF6-82FF-455A-89E4-92D0A0EABC95" href="http://collection.britishmuseum.org/id/thesauri/x10018">
                 <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
                 <oc:label>measuring-weight</oc:label>
               </oc:targetLink>
